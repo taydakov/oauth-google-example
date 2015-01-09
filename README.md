@@ -5,5 +5,4 @@ npm install -g http-server
 http-server . -p 8080
 ```
 
-Change value of "appId" field to your appId and set up "Site URL" and "Mobile Site URL" variables on Facebook developer board
-
+Change value of "clientId" and "apiKey" fields to yours and set up "JAVASCRIPT ORIGINS" variable on Facebook developer board
