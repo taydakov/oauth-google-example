@@ -1,3 +1,5 @@
+The code has been taken from https://code.google.com/p/google-api-javascript-client/source/browse/samples/authSample.html
+
 The app should be run on http://localhost:8080/
 
 ```bash
